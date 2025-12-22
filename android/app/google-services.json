@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281722976582",
+    "project_id": "alertaapp-bb78b",
+    "storage_bucket": "alertaapp-bb78b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281722976582:android:60e54d808382886d59cd47",
+        "android_client_info": {
+          "package_name": "com.example.app_alerta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCihj4ATBBBT0mx5iTDi2865w8DNSK84CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
