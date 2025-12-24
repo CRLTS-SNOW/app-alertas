@@ -1,6 +1,6 @@
 name: app_alerta
-description: "A new Flutter project."
-publish_to: 'none'
+description: "Proyecto de alertas comunitarias"
+publish_to: "none"
 version: 0.1.0
 
 environment:
@@ -20,3 +20,5 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/

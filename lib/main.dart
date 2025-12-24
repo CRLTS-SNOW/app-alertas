@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'routes/app_routes.dart';
 
 void main() {
   runApp(const MainApp());
@@ -16,7 +17,8 @@ class MainApp extends StatelessWidget {
         fontFamily: GoogleFonts.montserrat().fontFamily,
         useMaterial3: true,
       ),
-      home: Scaffold(body: Center(child: Text('Hello World!'))),
+      initialRoute: AppRoutes.login,
+      routes: AppRoutes.getRoutes(),
     );
   }
 }

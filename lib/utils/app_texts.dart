@@ -27,15 +27,15 @@ class AppTexts {
   static const String hintInputEmailReset = "Ingresa tu correo";
   static const String resetButton = "Solicitar";
 
-  //Screen verificar número
-  static const String verifyNumberTitle = "Verificación";
-  static const String verifyNumberInstruction =
-      "Introduce el código de verificación enviado al número +56 9XXXXXXXX";
-  static const String hintVerifyNumberCode = "0";
-  static const String verifyNumberButton = "Verificar";
-  static const String resendNumberCode = "¿No recibiste un código?";
-  static const String cooldownResendNumberCode =
-      "Solicita un nuevo código en 00:30s";
+  // //Screen verificar número
+  // static const String verifyNumberTitle = "Verificación";
+  // static const String verifyNumberInstruction =
+  //     "Introduce el código de verificación enviado al número +56 9XXXXXXXX";
+  // static const String hintVerifyNumberCode = "0";
+  // static const String verifyNumberButton = "Verificar";
+  // static const String resendNumberCode = "¿No recibiste un código?";
+  // static const String cooldownResendNumberCode =
+  //     "Solicita un nuevo código en 00:30s";
 
   //Confirmación correo
   static const String verifyEmailTitle = "Confirmación de correo";
