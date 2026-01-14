@@ -1,6 +1,7 @@
 class AppTexts {
   //Screen pantalla carga
   static const String loadingTitle = "Cargando por favor espere...";
+
   //Screen de registro
   static const String registerTitle = "Registro de cuenta";
   static const String registerSubtitle = "Regístrate con tus datos personales";
@@ -18,6 +19,8 @@ class AppTexts {
   static const String hintInputPasswordLogin = "Contraseña";
   static const String checkboxRememberLogin = "Recuérdame";
   static const String textButtonForgotPassword = "¿Olvidaste tu contraseña?";
+  static const String loginDontHaveAccount = "¿No tienes cuenta? ";
+  static const String loginRegisterLink = "Regístrate aquí";
   static const String loginButton = "Iniciar sesión";
 
   //Screen recuperar
