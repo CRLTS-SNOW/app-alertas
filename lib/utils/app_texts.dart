@@ -51,4 +51,21 @@ class AppTexts {
       "Solicita un nuevo correo en 00:30s";
   static const String confirmEmailText = "¿Ya confirmaste?";
   static const String verifyEmailButton = "Siguiente";
+
+  // ScreenHome
+  static const String homeWelcomePrefix = "¡Hola";
+  static const String homeSafetyMessage = "Tu seguridad es nuestra prioridad";
+  static const String homeEmergencyPrompt = "Presiona el botón en emergencia";
+  static const String homeModalTitle = "¿QUÉ ESTÁ PASANDO?";
+  static const String homeModalHint = "Ej: Alguien intenta entrar...";
+  static const String homeSelectLevel = "SELECCIONA NIVEL DE PELIGRO";
+
+  // Niveles de peligro
+  static const String alertMin = "Mínimo";
+  static const String alertLow = "Bajo";
+  static const String alertMod = "Moderado";
+  static const String alertHigh = "Alto";
+  static const String alertMax = "Máximo";
+
+  //
 }
